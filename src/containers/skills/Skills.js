@@ -7,11 +7,11 @@ export default function Skills() {
     <div className="main" id="skills">
       <div className="skills-main-div">
         <div className="skills-image-div">
-          <img alt="Saad Working" src={require("../../assests/images/developerActivity.svg")}></img>
+          <img alt="Saad Working" src={require("../../assests/my_images/work_couch.png")}></img>
         </div>
         <div className="skills-text-div">
-          <h1 className="skills-heading">What i do </h1>
-          <p className="subTitle skills-text-subtitle">CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK </p>
+          <h1 className="skills-heading">What I ♥ to Do </h1>
+          <p className="subTitle skills-text-subtitle">CRAZY UNICORN DATA SCIENTIST WHO WANT TO EXPLORE EVERY DATA DRIVEN TECH STACK  </p>
           <SoftwareSkill />
           <div>
             <p className="subTitle skills-text">⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications</p>
