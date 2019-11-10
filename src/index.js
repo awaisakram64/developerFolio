@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import './assests/font-awesome/css/all.css'
+import './assests/font-mfizz/font-mfizz.css'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
