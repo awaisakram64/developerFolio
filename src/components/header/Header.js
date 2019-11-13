@@ -17,16 +17,16 @@ function Header() {
             <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+          <a href="#opensource">Open Source</a>
           </li>
           <li>
-            <a href="#opensource">Open Source</a>
+          <a href="#projects">Companies</a>
           </li>
           <li>
-            <a href="#blogs">Blogs</a>
+          <a href="#achievements">Achievements</a>
           </li>
           <li>
-            <a href="#achievements">Achievements</a>
+          <a href="#blogs">Blogs</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>
